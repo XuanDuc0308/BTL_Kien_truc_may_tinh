@@ -1,0 +1,87 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1677726904
+V^Mk=945lnl]T=Q3c=`:CM2
+Z1 04 4 4 work sort fast 0
+=1-0492266e3261-640014b8-a2-2224
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1677727142
+Vf23ELXB[19kBA]enf3VLX1
+Z5 04 7 4 work sort_tb fast 0
+=1-0492266e3261-640015a5-311-24a0
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1677853108
+VkK7UXjNUXNGWc8EF3Sed:1
+R1
+R5
+=1-0492266e3261-640201b4-53-35c0
+R2
+R3
+n@_opt2
+R4
+vsort
+!s110 1677759763
+!i10b 1
+!s100 3Uo[g5UKdFi8KelYa:AL31
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICfXkELhZ8dz44O3fo8<@z2
+Z7 dC:/Users/Admin/Documents/ModelSimProj
+w1677759747
+8C:\Users\Admin\Documents\ModelSimProj\sort.v
+FC:\Users\Admin\Documents\ModelSimProj\sort.v
+!i122 3
+L0 2 33
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1677759763.000000
+!s107 C:\Users\Admin\Documents\ModelSimProj\sort.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Admin\Documents\ModelSimProj\sort.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vsort_tb
+!s110 1677853090
+!i10b 1
+!s100 b<KQ721RN;Mz0;5nElWd[2
+R6
+I^:dj:>WVbmoRY=]R<WMaH3
+R7
+w1677853085
+8C:\Users\Admin\Documents\ModelSimProj\testbench.v
+FC:\Users\Admin\Documents\ModelSimProj\testbench.v
+!i122 5
+L0 2 37
+R8
+R9
+r1
+!s85 0
+31
+!s108 1677853090.000000
+!s107 C:\Users\Admin\Documents\ModelSimProj\testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Admin\Documents\ModelSimProj\testbench.v|
+!i113 0
+R10
+R3
